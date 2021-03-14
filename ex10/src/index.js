@@ -4,7 +4,7 @@ function main(){
     var myFirstName = "Mirza"
     var myLastName = "Mesic"
     var myHomeTown = "Travnik"
-    // Only change code abowe this line
+    // Only change code above this line
 
     return {
        myFirstName,
@@ -16,4 +16,4 @@ function main(){
 console.log(main());
 
 
-module.export = main;
+module.exports = main;

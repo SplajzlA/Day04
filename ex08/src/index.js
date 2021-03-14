@@ -9,14 +9,14 @@ function main(){
     myY += 17;
     myZ -= 20;
 
-    // Only change code abowe this line
+    // Only change code above this line
 
     return {
         myX,
         myY,
-        myZ,
+        myZ
     };
 }
 
 console.log(main());
-module.export = main;
+module.exports = main;
